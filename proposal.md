@@ -94,5 +94,11 @@ KickPass is a football ticketing system that leverages NFTs to provide fans with
 - Integrate IPFS for decentralized storage.
 - Deploy MVP on a testnet for initial user feedback.
 
+Team Details
+Teammates:
+
+aFRAZ ALAM 
+
+
 ## Future Prospects and Conclusion
 KickPass envisions a future where football fans not only attend matches but also build a digital collection of memories through NFTs. Future prospects include the integration of blockchain notifications, AI-powered verification, and decentralized identity to further enhance the platform. KickPass aims to demonstrate the innovative use of blockchain technology to transform the football ticketing experience, fostering a new era of fan engagement and ownership.
