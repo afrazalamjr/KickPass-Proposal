@@ -92,12 +92,8 @@ KickPass is a football ticketing system that leverages NFTs to provide fans with
 - Implement core smart contract functionalities on Ethereum.
 - Conduct rigorous internal testing of all functionalities.
 - Integrate IPFS for decentralized storage.
-- Deploy MVP on a testnet for initial user feedback.
+- Deploy MVP on a test net for initial user feedback.
 
-Team Details
-Teammates:
-
-aFRAZ ALAM 
 
 
 ## Future Prospects and Conclusion
